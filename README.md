@@ -1,6 +1,6 @@
 Hi there 👋
 
-https://camo.githubusercontent.com/1beca0dc791f081e44e66f5acb502d57829dec2c0c423d437d64b89ba9eeb17a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313738352f302a37513379765349765f7430696f4a2d5a2e676966
+<img src="https://camo.githubusercontent.com/1beca0dc791f081e44e66f5acb502d57829dec2c0c423d437d64b89ba9eeb17a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313738352f302a37513379765349765f7430696f4a2d5a2e676966">
 
 I'm a first-year Computer Science (AI) student at Vedam School of Technology, passionate about building things for the web and exploring how AI can make software smarter.<br>🎓 Currently studying B.Tech in Computer Science (AI)<br>💻 Learning and building with HTML, CSS, and Java Script<br>🎨 Enjoy creating clean, functional frontend designs<br>🚀 Always exploring new projects to sharpen my skills<br>🌱 Actively growing my knowledge in web development and AI
 
