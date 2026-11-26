@@ -1,71 +1,26 @@
-# 👋 Hi there, I'm Shamsher Singh!
-
 <div align="center">
-  
-  <img src="https://camo.githubusercontent.com/1beca0dc791f081e44e66f5acb502d57829dec2c0c423d437d64b89ba9eeb17a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313738352f302a37513379765349765f7430696f4a2d5a2e676966" width="100%" />
 
-  ### 💻 Computer Science (AI) Student | Frontend Developer | Tech Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Shamsher%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=58" alt="Header"/>
 
-  *Building today, learning every day, creating for tomorrow.* 🚀
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+clean%2C+scalable+software;Turning+ideas+into+working+products;Always+learning%2C+always+shipping" alt="Typing SVG"/></a>
+
+<br/>
+
+<a href="https://github.com/shamshersingh1"><img src="https://img.shields.io/badge/GitHub-shamshersingh1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/shamshersingh1?tab=followers"><img src="https://img.shields.io/github/followers/shamshersingh1?style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b27" alt="Followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=shamshersingh1&label=Profile%20Views&style=for-the-badge&color=7aa2f7&labelColor=1a1b27" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 💫 About Me
+## 👋 About Me
 
-I'm a first-year **Computer Science (AI) student at Vedam School of Technology**, passionate about building things for the web and exploring how Artificial Intelligence can make software smarter.
+I'm a developer who enjoys building practical, well-structured software and continuously improving my craft. This profile is a snapshot of my work, my activity and the technologies I use most.
 
-- 🎓 Pursuing B.Tech in Computer Science (AI)
-- 💻 Learning and building with **JavaScript, Java, HTML & CSS**
-- 🎨 Enjoy creating clean, functional frontend designs
-- 🤖 Exploring Artificial Intelligence and emerging technologies
-- 🚀 Building projects and turning ideas into reality
-- 🌱 Always learning, experimenting, and improving my skills
-
----
-
-## 🚀 What I'm Working On
-
-- 🌐 Improving my frontend development skills
-- 💡 Practicing Java and Data Structures & Algorithms
-- 🤖 Exploring AI and Machine Learning
-- 🛠️ Building projects to gain practical experience
-- 📚 Learning new technologies and development tools
-
----
-
-## 🌐 Connect With Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/shamshersingh01/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shamsher0968@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 💻 Tech Stack
-
-### Languages & Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+- 💻 I write code daily and contribute through personal projects and open source
+- 🌱 I'm always learning new tools, languages and best practices
+- 🤝 I'm open to collaboration, feedback and new ideas
 
 ---
 
@@ -73,30 +28,47 @@ I'm a first-year **Computer Science (AI) student at Vedam School of Technology**
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shamshersingh1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=shamshersingh1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshersingh1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshersingh1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+<br/>
 
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=shamshersingh1&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=shamshersingh1&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
 ---
 
+## 🏆 Achievements
+
 <div align="center">
 
-### ✨ "Dream. Build. Learn. Repeat."
+<img src="https://github-profile-trophy.vercel.app/?username=shamshersingh1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies"/>
 
-Thanks for visiting my profile! 
+</div>
 
-**Let's connect, collaborate, and build something amazing.** 🚀
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamshersingh1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+
+</div>
+
+---
+
+## 📌 Repositories
+
+Browse my work on **[github.com/shamshersingh1?tab=repositories](https://github.com/shamshersingh1?tab=repositories)**.
+
+---
+
+<div align="center">
+
+⭐ *If you find something useful here, consider leaving a star.* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" alt="Footer"/>
 
 </div>
