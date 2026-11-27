@@ -38,4 +38,122 @@ I'm passionate about building digital experiences, solving problems through code
 - 🚀 Turning ideas into working projects
 
 </td>
-<td width="40%" align
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" />
+
+**Code. Create. Innovate.**
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- TECH STACK -->
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,js" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+<!-- CURRENT FOCUS -->
+## 🎯 What I'm Up To
+
+<div align="center">
+
+| 💡 Focus | 🚀 Goal |
+|:---|:---|
+| Frontend Development | Build responsive web experiences |
+| Java & DSA | Strengthen problem-solving skills |
+| Artificial Intelligence | Explore practical AI applications |
+| Personal Projects | Turn creative ideas into products |
+
+</div>
+
+---
+
+<!-- PROJECTS -->
+## 🚀 Featured Work
+
+<div align="center">
+
+<a href="https://github.com/shamshersingh1?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+*I enjoy building projects that help me experiment, learn, and turn concepts into real applications.*
+
+</div>
+
+---
+
+<!-- GITHUB ANALYTICS -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shamshersingh1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshersingh1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shamshersingh1&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE" />
+
+</div>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+## 🌌 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shamshersingh1&bg_color=0D1117&color=22D3EE&line=7C3AED&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<!-- CONNECT -->
+## 🌐 Let's Connect
+
+<div align="center">
+
+I'm always open to learning, exchanging ideas, and collaborating on interesting projects.
+
+<a href="https://www.linkedin.com/in/shamshersingh01/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:shamsher0968@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### ✨ "Great things are built one commit at a time."
+
+**Thanks for stopping by! Keep building. Keep exploring. 🚀**
+
+</div>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0B0B14&height=120&section=footer" />
