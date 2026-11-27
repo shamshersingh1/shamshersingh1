@@ -1,102 +1,124 @@
-# 👋 Hi there, I'm Shamsher Singh!
+# Shamsher Singh
 
 <div align="center">
-  
-  <img src="https://camo.githubusercontent.com/1beca0dc791f081e44e66f5acb502d57829dec2c0c423d437d64b89ba9eeb17a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313738352f302a37513379765349765f7430696f4a2d5a2e676966" width="100%" />
 
-  ### 💻 Computer Science (AI) Student | Frontend Developer | Tech Enthusiast
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Computer+Science+%28AI%29+Student;Frontend+Development+Enthusiast;Building+Projects+and+Learning+AI;Turning+Ideas+into+Code" alt="Typing SVG" />
 
-  *Building today, learning every day, creating for tomorrow.* 🚀
+  <br/>
 
-</div>
-
----
-
-## 💫 About Me
-
-I'm a first-year **Computer Science (AI) student at Vedam School of Technology**, passionate about building things for the web and exploring how Artificial Intelligence can make software smarter.
-
-- 🎓 Pursuing B.Tech in Computer Science (AI)
-- 💻 Learning and building with **JavaScript, Java, HTML & CSS**
-- 🎨 Enjoy creating clean, functional frontend designs
-- 🤖 Exploring Artificial Intelligence and emerging technologies
-- 🚀 Building projects and turning ideas into reality
-- 🌱 Always learning, experimenting, and improving my skills
-
----
-
-## 🚀 What I'm Working On
-
-- 🌐 Improving my frontend development skills
-- 💡 Practicing Java and Data Structures & Algorithms
-- 🤖 Exploring AI and Machine Learning
-- 🛠️ Building projects to gain practical experience
-- 📚 Learning new technologies and development tools
-
----
-
-## 🌐 Connect With Me
-
-<div align="left">
   <a href="https://www.linkedin.com/in/shamshersingh01/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shamsher0968@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/shamshersingh1">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-### Languages & Frontend
+I'm a first-year **B.Tech Computer Science (AI) student at Vedam School of Technology**, interested in software development, frontend engineering, and Artificial Intelligence.
+
+I enjoy turning ideas into functional applications, experimenting with new technologies, and understanding how things work under the hood.
+
+- 🎓 Pursuing Computer Science with a specialization in AI
+- 💻 Developing my skills in JavaScript, Java, HTML, and CSS
+- 🎨 Interested in frontend development and intuitive user interfaces
+- 🤖 Exploring Artificial Intelligence and its practical applications
+- 🧩 Practicing Data Structures and Algorithms to strengthen problem-solving
+- 🚀 Building projects and learning through hands-on experience
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-### Tools & Platforms
+**Web Development**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
+
+- Building responsive and user-friendly web applications
+- Improving Java programming and problem-solving skills
+- Practicing Data Structures and Algorithms
+- Exploring AI-powered applications and software
+- Learning modern development practices through projects
+
+---
+
+## 🚀 Projects
+
+I believe the best way to learn software development is by building real projects.
+
+I'm continuously working on projects to apply what I learn, experiment with ideas, and improve my development skills.
+
+**Explore my repositories:**
+
+<a href="https://github.com/shamshersingh1?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shamshersingh1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shamshersingh1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshersingh1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshersingh1&layout=compact&theme=tokyonight&hide_border=true" />
 
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=shamshersingh1&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, learning from others, and collaborating on interesting projects.
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=shamshersingh1&theme=tokyonight&hide_border=true&border_radius=10" />
+  <a href="https://www.linkedin.com/in/shamshersingh01/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shamsher_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-</div>
+  <a href="mailto:shamsher0968@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
----
+  <br/><br/>
 
-<div align="center">
+  **"Build with curiosity. Improve with consistency."**
 
-### ✨ "Dream. Build. Learn. Repeat."
-
-Thanks for visiting my profile! 
-
-**Let's connect, collaborate, and build something amazing.** 🚀
+  <sub>Thanks for visiting my GitHub profile! ⭐</sub>
 
 </div>
