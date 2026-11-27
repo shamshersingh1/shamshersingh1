@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/shamshersingh1/shamshersingh1/main/assets/footer.svg" width="100%" alt="footer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&lines=Looking+for+a+Software+Development+Internship;Learning+HTML%2C+CSS+%26+JavaScript+by+building;Practicing+Java+and+Data+Structures;Turning+ideas+into+working+products" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/shamshersingh1/shamshersingh1/main/assets/banner.svg" width="100%" alt="Shamsher Singh - B.Tech CS (AI) Student | Frontend &amp; Java Learner" />
 
 <br/><br/>
 
@@ -147,6 +146,6 @@ Web development coursework and DSA practice.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=110&section=footer" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/shamshersingh1/shamshersingh1/main/assets/footer.svg" width="100%" alt="footer" />
 
 </div>
