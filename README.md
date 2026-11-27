@@ -1,57 +1,57 @@
-<!-- ANIMATED HEADER -->
+<!-- ================= HEADER ================= -->
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B14,50:312E81,100:06B6D4&height=220&section=header&text=SHAMSHER%20SINGH&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20ONE%20LINE%20AT%20A%20TIME&descSize=13&descAlignY=58&animation=fadeIn" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Computer+Science+%28AI%29+Student;Frontend+Developer+in+Progress;Java+%7C+JavaScript+%7C+Web+Development;Exploring+the+World+of+AI" />
 
-  <br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,40:312E81,100:06B6D4&height=230&section=header&text=SHAMSHER%20SINGH&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descSize=15&descAlignY=58&animation=fadeIn" />
 
-  <a href="https://www.linkedin.com/in/shamshersingh01/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shamsher0968@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/shamshersingh1">
-    <img src="https://komarev.com/ghpvc/?username=shamshersingh1&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Computer+Science+%28AI%29+Student;Frontend+Development+Enthusiast;Java+%7C+JavaScript+%7C+Web+Development;Exploring+Artificial+Intelligence;Building+Ideas+Into+Reality" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/shamshersingh01/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+&nbsp;
+<a href="mailto:shamsher0968@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+&nbsp;
+<a href="https://github.com/shamshersingh1">
+<img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=shamshersingh1&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" />
+
 </div>
-
-<br/>
-
-<!-- ABOUT ME -->
-<table>
-<tr>
-<td width="60%" valign="top">
-
-## 👨‍💻 About Me
-
-Hey! I'm **Shamsher Singh**, a first-year B.Tech Computer Science (AI) student at **Vedam School of Technology**.
-
-I'm passionate about building digital experiences, solving problems through code, and exploring how AI can shape the future of software.
-
-- 🎓 Computer Science (AI) Undergraduate
-- 💻 Exploring Frontend Development
-- ☕ Learning Java and JavaScript
-- 🤖 Interested in Artificial Intelligence
-- 🧠 Practicing Data Structures & Algorithms
-- 🚀 Turning ideas into working projects
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" />
-
-**Code. Create. Innovate.**
-
-</td>
-</tr>
-</table>
 
 ---
 
-<!-- TECH STACK -->
-## ⚡ Tech Arsenal
+<!-- ================= ABOUT ================= -->
+
+## 👨‍💻 About Me
+
+<img align="right" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
+Hey! I'm **Shamsher Singh**, a first-year B.Tech Computer Science (AI) student at **Vedam School of Technology**.
+
+I'm passionate about building digital experiences, exploring emerging technologies, and understanding how Artificial Intelligence can make software smarter.
+
+- 🎓 Computer Science (AI) Undergraduate
+- 💻 Learning JavaScript, Java, HTML & CSS
+- 🎨 Interested in frontend development and UI/UX
+- 🤖 Exploring Artificial Intelligence
+- 🧠 Practicing Data Structures & Algorithms
+- 🚀 Building projects and learning through experience
+
+<br clear="right"/>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -71,40 +71,44 @@ I'm passionate about building digital experiences, solving problems through code
 
 ---
 
-<!-- CURRENT FOCUS -->
-## 🎯 What I'm Up To
+<!-- ================= CURRENT FOCUS ================= -->
+
+## 🎯 Current Focus
 
 <div align="center">
 
-| 💡 Focus | 🚀 Goal |
-|:---|:---|
-| Frontend Development | Build responsive web experiences |
-| Java & DSA | Strengthen problem-solving skills |
-| Artificial Intelligence | Explore practical AI applications |
-| Personal Projects | Turn creative ideas into products |
+| Area | What I'm Learning |
+|:---:|:---|
+| 🌐 Frontend | Responsive websites and UI development |
+| ☕ Java | Programming and problem-solving |
+| 🧠 DSA | Data Structures and Algorithms |
+| 🤖 AI | Exploring practical AI applications |
+| 🚀 Projects | Building real-world applications |
 
 </div>
 
 ---
 
-<!-- PROJECTS -->
-## 🚀 Featured Work
+<!-- ================= PROJECTS ================= -->
+
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/shamshersingh1?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-*I enjoy building projects that help me experiment, learn, and turn concepts into real applications.*
+*I enjoy turning ideas into working applications and learning something new with every project.*
 
 </div>
 
 ---
 
-<!-- GITHUB ANALYTICS -->
+<!-- ================= GITHUB STATS ================= -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -121,7 +125,8 @@ I'm passionate about building digital experiences, solving problems through code
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- ================= CONTRIBUTIONS ================= -->
+
 ## 🌌 Contribution Activity
 
 <div align="center">
@@ -132,28 +137,44 @@ I'm passionate about building digital experiences, solving problems through code
 
 ---
 
-<!-- CONNECT -->
-## 🌐 Let's Connect
+<!-- ================= CONNECT ================= -->
 
 <div align="center">
 
-I'm always open to learning, exchanging ideas, and collaborating on interesting projects.
+# 🤝 LET'S CONNECT
+
+### Have an idea? Let's build something together!
+
+I'm always open to connecting with developers, exchanging ideas, learning new things, and collaborating on interesting projects.
+
+<br/>
 
 <a href="https://www.linkedin.com/in/shamshersingh01/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-
+&nbsp;
 <a href="mailto:shamsher0968@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+&nbsp;
+<a href="https://github.com/shamshersingh1">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 <br/><br/>
 
-### ✨ "Great things are built one commit at a time."
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
 
-**Thanks for stopping by! Keep building. Keep exploring. 🚀**
+<br/><br/>
+
+### ✨ "Dream. Build. Learn. Repeat."
+
+**Thanks for visiting my profile!** 🚀
 
 </div>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0B0B14&height=120&section=footer" />
+<!-- ================= FOOTER ================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:09090F&height=120&section=footer" />
