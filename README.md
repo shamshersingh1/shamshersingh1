@@ -140,9 +140,6 @@ I enjoy turning ideas into working applications and learning something new with 
 </div>
 
 ---
-
-<!-- ===================== LET'S CONNECT ===================== -->
-
 <div align="center">
 
 # 🤝 LET'S CONNECT
@@ -154,15 +151,15 @@ I'm always open to connecting with developers, exchanging ideas, learning new th
 <br/>
 
 <a href="https://www.linkedin.com/in/shamshersingh01/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:shamsher0968@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
+<img src="https://img.shields.io/badge/Gmail-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/shamshersingh1">
-<img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-FOLLOW-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -172,7 +169,5 @@ I'm always open to connecting with developers, exchanging ideas, learning new th
 Thanks for visiting my profile! 🚀
 
 </div>
-
-<!-- ===================== FOOTER ===================== -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:09090F&height=120&section=footer" />
