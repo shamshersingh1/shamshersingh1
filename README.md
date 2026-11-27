@@ -1,4 +1,4 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= ANIMATED HEADER ================= -->
 
 <div align="center">
 
@@ -6,18 +6,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Computer+Science+%28AI%29+Student;Frontend+Development+Enthusiast;Java+%7C+JavaScript+%7C+Web+Development;Exploring+Artificial+Intelligence;Building+Ideas+Into+Reality" />
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/shamshersingh01/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 &nbsp;
 <a href="mailto:shamsher0968@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 &nbsp;
 <a href="https://github.com/shamshersingh1">
-<img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 <br/><br/>
@@ -28,11 +28,11 @@
 
 ---
 
-<!-- ================= ABOUT ================= -->
+<!-- ================= ABOUT ME ================= -->
 
 ## 👨‍💻 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" width="220" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 Hey! I'm **Shamsher Singh**, a first-year B.Tech Computer Science (AI) student at **Vedam School of Technology**.
 
@@ -107,7 +107,7 @@ I'm passionate about building digital experiences, exploring emerging technologi
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 ## 📊 GitHub Analytics
 
@@ -125,7 +125,7 @@ I'm passionate about building digital experiences, exploring emerging technologi
 
 ---
 
-<!-- ================= CONTRIBUTIONS ================= -->
+<!-- ================= CONTRIBUTION GRAPH ================= -->
 
 ## 🌌 Contribution Activity
 
@@ -137,7 +137,7 @@ I'm passionate about building digital experiences, exploring emerging technologi
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- ================= LET'S CONNECT ================= -->
 
 <div align="center">
 
@@ -149,23 +149,25 @@ I'm always open to connecting with developers, exchanging ideas, learning new th
 
 <br/>
 
-<a href="https://www.linkedin.com/in/shamshersingh01/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<a href="https://www.linkedin.com/in/shamshersingh01/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:shamsher0968@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Gmail"/>
 </a>
-&nbsp;
-<a href="https://github.com/shamshersingh1">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/shamshersingh1" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a>
+<a href="https://www.linkedin.com/in/shamshersingh01/">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="mailto:shamsher0968@gmail.com">Email</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/shamshersingh1">GitHub</a>
 
 <br/><br/>
 
