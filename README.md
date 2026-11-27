@@ -1,151 +1,142 @@
+ 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shamshersingh1/shamshersingh1/main/assets/banner.svg" width="100%" alt="Shamsher Singh - B.Tech CS (AI) Student | Frontend &amp; Java Learner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=210&section=header&text=Shamsher%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20(AI)%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&descSize=16" width="100%" />
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/shamshersingh01/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
+</a>
+<a href="mailto:shamsher0968@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" />
+</a>
+<a href="https://github.com/shamshersingh1">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" height="38" />
+</a>
 
-<a href="https://www.linkedin.com/in/shamshersingh01/"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=0A66C2" height="42" alt="LinkedIn" /></a>
-<a href="mailto:shamsher0968@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-F43F5E?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&labelColor=EA4335" height="42" alt="Gmail" /></a>
-<a href="https://github.com/shamshersingh1"><img src="https://img.shields.io/badge/GitHub-Follow_Me-7C5CFF?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&labelColor=181717" height="42" alt="GitHub" /></a>
-<a href="https://elevora-zeta.vercel.app"><img src="https://img.shields.io/badge/Live_Project-Elevora-22C55E?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=20&labelColor=000000" height="42" alt="Elevora live" /></a>
-<!-- Add when ready: <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-F43F5E?style=for-the-badge&logo=readthedocs&logoColor=white&logoWidth=20&labelColor=7C5CFF" height="42" /></a> -->
+<br/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Open_To-Internships-22C55E?style=for-the-badge&labelColor=0B0B14" alt="Open to internships" />
-<img src="https://img.shields.io/badge/Vedam_School_of_Technology-B.Tech_CS_%28AI%29-7C5CFF?style=for-the-badge&labelColor=0B0B14" alt="Vedam School of Technology" />
-<img src="https://img.shields.io/badge/Year-1st-F43F5E?style=for-the-badge&labelColor=0B0B14" alt="First year" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=20&labelColor=1F2937" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-Practicing-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20&labelColor=1F2937" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-Building-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&labelColor=1F2937" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&labelColor=1F2937" alt="CSS3" />
-<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=20&labelColor=1F2937" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-Collaboration-7C5CFF?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&labelColor=181717" alt="GitHub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+projects+and+learning+every+day;Exploring+Frontend+Development;Practicing+Java+and+Data+Structures;Turning+ideas+into+working+projects" alt="Typing SVG" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=3" width="100%" alt="divider" />
+---
 
 ## 👋 About Me
 
-I'm a first-year **B.Tech Computer Science (AI)** student at **Vedam School of Technology**. I learn by building: my repositories are a record of me working through HTML, CSS, JavaScript and Java, one project at a time.
+I'm **Shamsher Singh**, a first-year B.Tech Computer Science (AI) student at **Vedam School of Technology**, interested in software development and building practical projects.
 
-| | |
-|---|---|
-| 🔭 **Working on** | Frontend fundamentals and my own project ideas |
-| 📖 **Learning** | JavaScript, Java, Data Structures & Algorithms |
-| 🎯 **Looking for** | Internships where I can learn, contribute and grow as a developer |
-| 💬 **Ask me about** | HTML, CSS, JavaScript, Java basics, DOM manipulation |
+- 💻 Exploring frontend development and web technologies.
+- ☕ Learning Java and strengthening my Data Structures and Algorithms fundamentals.
+- 🚀 Working on **Elevora**, a project currently in development.
+- 🎯 Looking for internship opportunities where I can learn, contribute, and grow as a developer.
+- 📚 Believe in learning by building and improving through practice.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=3" width="100%" alt="divider" />
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode&theme=dark" alt="Tech icons" />
+### Languages & Web Development
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,ts&theme=dark" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
-| Category | Technologies |
-|---|---|
-| **Languages** | Java, JavaScript, HTML5, CSS3 |
-| **Frontend skills** | Flexbox, layouts, CSS animations, DOM manipulation |
-| **Tools** | Git, GitHub, VS Code |
-| **Core CS** | Data Structures & Algorithms *(in progress)* |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=3" width="100%" alt="divider" />
+---
 
 ## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 1. Elevora
+**Status:** In Development
 
-### 🌟 Elevora
-`Product Idea · Live`
+A project I'm actively working on as part of my journey into building software products.
 
-A skill-verification platform concept: candidates showcase verified proof of their work, and recruiters search by verified skills instead of resumes. I designed the idea and built it using AI tools, and I'm now learning the technologies behind it.
+[![View Repository](https://img.shields.io/badge/View_Repository-Elevora-7C5CFF?style=for-the-badge&logo=github)](https://github.com/shamshersingh1/Elevora)
 
-[![Live](https://img.shields.io/badge/Elevora-Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://elevora-zeta.vercel.app)
-[![Repo](https://img.shields.io/badge/Elevora-Source_Code-7C5CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/shamshersingh1/Elevora)
+### 2. Bistro Project
+**Status:** Incomplete
 
-</td>
-<td width="50%" valign="top">
+A web development project built using HTML and CSS. Part of my hands-on frontend learning.
 
-### 🍽️ Bistro Website
-`HTML · CSS`
+[![View Repository](https://img.shields.io/badge/View_Repository-Bistro--project-22D3EE?style=for-the-badge&logo=github)](https://github.com/shamshersingh1/Bistro-project)
 
-A restaurant website built to practice page structure, styling and layout.
+### 3. JavaScript Practice
+A collection of JavaScript practice files covering topics such as arrays, objects, loops, functions, strings, and DOM manipulation.
 
-[![Repo](https://img.shields.io/badge/Bistro-Source_Code-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/shamshersingh1/Bistro-project)
+[![View Repository](https://img.shields.io/badge/View_Repository-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/shamshersingh1/JS)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 4. Web Development Practice
+A collection of HTML and CSS exercises exploring layouts, styling, animations, flexbox, and other frontend fundamentals.
 
-### ⚡ JavaScript Practice
-`JavaScript`
+[![View Repository](https://img.shields.io/badge/View_Repository-Web--dev-1572B6?style=for-the-badge&logo=html5)](https://github.com/shamshersingh1/Web-dev)
 
-Exercises covering arrays, objects, loops, functions, strings and DOM manipulation.
+### 5. Web Development & DSA
+A repository containing web development coursework and practice projects.
 
-[![Repo](https://img.shields.io/badge/JavaScript-Source_Code-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1F2937)](https://github.com/shamshersingh1/JS)
+[![View Repository](https://img.shields.io/badge/View_Repository-WebDev--DSA-181717?style=for-the-badge&logo=github)](https://github.com/shamshersingh1/WebDev-DSA)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🎨 Web Development Practice
-`HTML · CSS`
+## 📈 GitHub Overview
 
-Layouts, flexbox, animations and styling fundamentals.
+<div align="center">
 
-[![Repo](https://img.shields.io/badge/Web_Dev-Source_Code-1572B6?style=for-the-badge&logo=html5&logoColor=white&labelColor=1F2937)](https://github.com/shamshersingh1/Web-dev)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shamshersingh1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshersingh1&layout=compact&theme=tokyonight&hide_border=true" />
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<br/><br/>
 
-### 📚 WebDev-DSA
-`Coursework`
+<img width="70%" src="https://streak-stats.demolab.com?user=shamshersingh1&theme=tokyonight&hide_border=true" />
 
-Web development coursework and DSA practice.
+<br/><br/>
 
-[![Repo](https://img.shields.io/badge/WebDev_DSA-Source_Code-F43F5E?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/shamshersingh1/WebDev-DSA)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamshersingh1&theme=tokyo-night&hide_border=true" width="100%" />
 
-</td>
-</tr>
-</table>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=3" width="100%" alt="divider" />
+---
 
-## 🗺️ Learning Roadmap
+## 🎯 Current Focus
 
-| Area | Goal | Status |
-|---|---|---|
-| 🌐 Frontend | Build responsive sites with JavaScript, then learn React | ![](https://img.shields.io/badge/Status-In_Progress-22D3EE?style=for-the-badge&labelColor=0B0B14) |
-| ☕ Java & DSA | Solve problems consistently, understand time and space complexity | ![](https://img.shields.io/badge/Status-In_Progress-7C5CFF?style=for-the-badge&labelColor=0B0B14) |
-| 🔍 Elevora | Understand and rebuild parts of it myself as I learn | ![](https://img.shields.io/badge/Status-Learning-F43F5E?style=for-the-badge&labelColor=0B0B14) |
-| 🧰 Git & GitHub | Clear commits and a README on every repo | ![](https://img.shields.io/badge/Status-Ongoing-22C55E?style=for-the-badge&labelColor=0B0B14) |
+| Area | Focus |
+|---|---|
+| Frontend Development | Improving HTML, CSS and JavaScript |
+| Java | Strengthening programming fundamentals |
+| DSA | Practicing problem-solving |
+| Projects | Developing Elevora and building practical projects |
+| Career | Preparing for internship opportunities |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=3" width="100%" alt="divider" />
+---
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-**Open to internships, collaboration and feedback on my code.**
+<a href="https://www.linkedin.com/in/shamshersingh01/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
+</a>
 
-<a href="https://www.linkedin.com/in/shamshersingh01/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=22&labelColor=0A66C2" height="46" alt="LinkedIn" /></a>
-<a href="mailto:shamsher0968@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_Email-F43F5E?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=22&labelColor=EA4335" height="46" alt="Gmail" /></a>
-<a href="https://github.com/shamshersingh1"><img src="https://img.shields.io/badge/GitHub-Explore_My_Work-7C5CFF?style=for-the-badge&logo=github&logoColor=white&logoWidth=22&labelColor=181717" height="46" alt="GitHub" /></a>
+<a href="mailto:shamsher0968@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45" />
+</a>
+
+<a href="https://github.com/shamshersingh1">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" height="45" />
+</a>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/shamshersingh1/shamshersingh1/main/assets/footer.svg" width="100%" alt="footer" />
+**Open to learning, collaboration, and internship opportunities.**
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=100&section=footer" width="100%" />
 
 </div>
