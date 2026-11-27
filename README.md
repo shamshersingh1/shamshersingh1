@@ -1,204 +1,142 @@
-<!-- ================================================= -->
-<!--                    HEADER                       -->
-<!-- ================================================= -->
-
+ 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,45:312E81,100:06B6D4&height=220&section=header&text=SHAMSHER%20SINGH&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descSize=15&descAlignY=58&animation=fadeIn" alt="Shamsher Singh header"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1800&color=22D3EE&center=true&vCenter=true&width=700&lines=Computer+Science+%28AI%29+Student;Frontend+Developer+in+Progress;Java+%7C+JavaScript+%7C+Web+Development;Exploring+Artificial+Intelligence;Building+Ideas+Into+Reality" alt="Typing animation"/>
-
-<br/><br/>
-
-<!-- HEADER SOCIAL ICONS -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=210&section=header&text=Shamsher%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20(AI)%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&descSize=16" width="100%" />
 
 <a href="https://www.linkedin.com/in/shamshersingh01/">
-<img src="https://img.icons8.com/fluency/96/linkedin.png" width="60" height="60" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:shamsher0968@gmail.com">
-<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60" height="60" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/shamshersingh1">
-<img src="https://img.icons8.com/fluency/96/github.png" width="60" height="60" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" height="38" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=shamshersingh1&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile views"/>
-
-</div>
-
----
-
-<!-- ================================================= -->
-<!--                    ABOUT ME                      -->
-<!-- ================================================= -->
-
-## 👨‍💻 About Me
-
-<img align="right" width="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer animation"/>
-
-Hey! I'm **Shamsher Singh**, a first-year B.Tech Computer Science (AI) student at **Vedam School of Technology**.
-
-I'm passionate about building digital experiences, exploring emerging technologies, and understanding how Artificial Intelligence can make software smarter.
-
-- 🎓 Computer Science (AI) Undergraduate
-- 💻 Learning JavaScript, Java, HTML & CSS
-- 🎨 Interested in frontend development and UI/UX
-- 🤖 Exploring Artificial Intelligence
-- 🧠 Practicing Data Structures & Algorithms
-- 🚀 Building projects and learning through experience
-
-<br clear="right"/>
-
----
-
-<!-- ================================================= -->
-<!--                    TECH STACK                    -->
-<!-- ================================================= -->
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,js" alt="Java and JavaScript"/>
-
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS"/>
-
-### 🔧 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
-
-</div>
-
----
-
-<!-- ================================================= -->
-<!--                 CURRENT FOCUS                    -->
-<!-- ================================================= -->
-
-## 🎯 What I'm Currently Focusing On
-
-<div align="center">
-
-| Area | Current Focus |
-|:---|:---|
-| 🌐 Frontend | Responsive websites and UI development |
-| ☕ Java | Programming and problem-solving |
-| 🧠 DSA | Data Structures and Algorithms |
-| 🤖 AI | Exploring practical AI applications |
-| 🚀 Projects | Building real-world applications |
-
-</div>
-
----
-
-<!-- ================================================= -->
-<!--                    PROJECTS                      -->
-<!-- ================================================= -->
-
-## 🚀 Projects & Development
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/BUILDING-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Building projects"/>
-
-<br/><br/>
-
-I enjoy turning ideas into working applications and learning something new with every project.
-
-<a href="https://github.com/shamshersingh1?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore repositories"/>
-</a>
-
-</div>
-
----
-
-<!-- ================================================= -->
-<!--                  GITHUB STATS                    -->
-<!-- ================================================= -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shamshersingh1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshersingh1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=shamshersingh1&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub streak"/>
-
-</div>
-
----
-
-<!-- ================================================= -->
-<!--               CONTRIBUTION GRAPH                 -->
-<!-- ================================================= -->
-
-## 🌌 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shamshersingh1&bg_color=0D1117&color=22D3EE&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution graph"/>
-
-</div>
-
----
-
-<!-- ================================================= -->
-<!--                  LET'S CONNECT                   -->
-<!-- ================================================= -->
-
-<div align="center">
-
-# 🤝 LET'S CONNECT
-
-### Have an idea? Let's build something together!
-
-I'm always open to connecting with developers, exchanging ideas, learning new things, and collaborating on interesting projects.
 
 <br/>
 
-<!-- LARGE SOCIAL APP ICONS -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+projects+and+learning+every+day;Exploring+Frontend+Development;Practicing+Java+and+Data+Structures;Turning+ideas+into+working+projects" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm **Shamsher Singh**, a first-year B.Tech Computer Science (AI) student at **Vedam School of Technology**, interested in software development and building practical projects.
+
+- 💻 Exploring frontend development and web technologies.
+- ☕ Learning Java and strengthening my Data Structures and Algorithms fundamentals.
+- 🚀 Working on **Elevora**, a project currently in development.
+- 🎯 Looking for internship opportunities where I can learn, contribute, and grow as a developer.
+- 📚 Believe in learning by building and improving through practice.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Web Development
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,ts&theme=dark" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Projects
+
+### 1. Elevora
+**Status:** In Development
+
+A project I'm actively working on as part of my journey into building software products.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-Elevora-7C5CFF?style=for-the-badge&logo=github)](https://github.com/shamshersingh1/Elevora)
+
+### 2. Bistro Project
+**Status:** Incomplete
+
+A web development project built using HTML and CSS. Part of my hands-on frontend learning.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-Bistro--project-22D3EE?style=for-the-badge&logo=github)](https://github.com/shamshersingh1/Bistro-project)
+
+### 3. JavaScript Practice
+A collection of JavaScript practice files covering topics such as arrays, objects, loops, functions, strings, and DOM manipulation.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/shamshersingh1/JS)
+
+### 4. Web Development Practice
+A collection of HTML and CSS exercises exploring layouts, styling, animations, flexbox, and other frontend fundamentals.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-Web--dev-1572B6?style=for-the-badge&logo=html5)](https://github.com/shamshersingh1/Web-dev)
+
+### 5. Web Development & DSA
+A repository containing web development coursework and practice projects.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-WebDev--DSA-181717?style=for-the-badge&logo=github)](https://github.com/shamshersingh1/WebDev-DSA)
+
+---
+
+## 📈 GitHub Overview
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shamshersingh1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshersingh1&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shamshersingh1&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamshersingh1&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+| Area | Focus |
+|---|---|
+| Frontend Development | Improving HTML, CSS and JavaScript |
+| Java | Strengthening programming fundamentals |
+| DSA | Practicing problem-solving |
+| Projects | Developing Elevora and building practical projects |
+| Career | Preparing for internship opportunities |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/shamshersingh01/">
-<img src="https://img.icons8.com/fluency/96/linkedin.png" width="60" height="60" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:shamsher0968@gmail.com">
-<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60" height="60" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/shamshersingh1">
-<img src="https://img.icons8.com/fluency/96/github.png" width="60" height="60" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" height="45" />
 </a>
-
-<br/>
-
-**LINKEDIN** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **GMAIL** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **GITHUB**
 
 <br/><br/>
 
-### ✨ "Dream. Build. Learn. Repeat."
-
-**Thanks for visiting my profile!** 🚀
+**Open to learning, collaboration, and internship opportunities.**
 
 </div>
 
-<!-- ================================================= -->
-<!--                     FOOTER                       -->
-<!-- ================================================= -->
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:09090F&height=120&section=footer" alt="Footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=100&section=footer" width="100%" />
+
+</div>
