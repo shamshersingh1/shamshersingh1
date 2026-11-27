@@ -1,116 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=200&section=header&text=Shamsher%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20B.Tech%20CS%20(AI)&descAlignY=60&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=220&section=header&text=Shamsher%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=B.Tech%20CS%20(AI)%20Student%20%7C%20Frontend%20%26%20Java%20Learner&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Looking+for+a+Software+Development+Internship;Built+Elevora+with+Next.js%2C+TypeScript+%26+Prisma;Practicing+Java+and+Data+Structures;Turning+ideas+into+working+products" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://elevora-zeta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Elevora-22C55E?style=for-the-badge&logo=vercel&logoColor=white" height="36" /></a>
-<a href="https://www.linkedin.com/in/shamshersingh01/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" /></a>
-<a href="mailto:shamsher0968@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" /></a>
-<!-- Add when ready: <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-F43F5E?style=for-the-badge&logo=readthedocs&logoColor=white" height="36" /></a> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Looking+for+a+Software+Development+Internship;Learning+HTML%2C+CSS+%26+JavaScript+by+building;Practicing+Java+and+Data+Structures;Turning+ideas+into+working+products" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Status-Open_to_Internships-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/Vedam_School_of_Technology-B.Tech_CS_(AI)-7C5CFF?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-Next.js_%7C_TypeScript_%7C_Java-22D3EE?style=flat-square" />
+<a href="https://www.linkedin.com/in/shamshersingh01/"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" /></a>
+<a href="mailto:shamsher0968@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" /></a>
+<a href="https://github.com/shamshersingh1"><img src="https://img.shields.io/badge/GitHub-Follow_Me-7C5CFF?style=for-the-badge&logo=github&logoColor=white" height="40" /></a>
+<a href="https://elevora-zeta.vercel.app"><img src="https://img.shields.io/badge/Live_Project-Elevora-22C55E?style=for-the-badge&logo=vercel&logoColor=white" height="40" /></a>
+<!-- Add when ready: <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-F43F5E?style=for-the-badge&logo=readthedocs&logoColor=white" height="40" /></a> -->
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2_Open_to-Internships-22C55E?style=for-the-badge&labelColor=0B0B14" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%93_Vedam_School_of_Technology-B.Tech_CS_(AI)-7C5CFF?style=for-the-badge&labelColor=0B0B14" />
+<img src="https://img.shields.io/badge/%F0%9F%93%85_Year-1st-F43F5E?style=for-the-badge&labelColor=0B0B14" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=2" width="100%" />
 
 ## 👋 About Me
 
-I'm a first-year **B.Tech Computer Science (AI)** student at **Vedam School of Technology**. I learn by building: I started with HTML, CSS and JavaScript practice projects and moved on to a full-stack product, **Elevora**, built with Next.js, TypeScript and Prisma and deployed on Vercel.
+I'm a first-year **B.Tech Computer Science (AI)** student at **Vedam School of Technology**. I learn by building: my repositories are a record of me working through HTML, CSS, JavaScript and Java, one project at a time.
 
 | | |
 |---|---|
-| 🔭 **Built** | **Elevora**, a full-stack skill-verification platform ([live](https://elevora-zeta.vercel.app)) |
-| 📖 **Learning** | Java, Data Structures & Algorithms, system design basics |
-| 🎯 **Looking for** | Frontend / full-stack internships where I can contribute to real code |
-| 💬 **Ask me about** | Next.js, TypeScript, Tailwind CSS, Prisma, JavaScript, HTML/CSS |
+| 🔭 **Working on** | Frontend fundamentals and my own project ideas |
+| 📖 **Learning** | JavaScript, Java, Data Structures & Algorithms |
+| 🎯 **Looking for** | Internships where I can learn, contribute and grow as a developer |
+| 💬 **Ask me about** | HTML, CSS, JavaScript, Java basics, DOM manipulation |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=2" width="100%" />
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,html,css&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,prisma,postgres,sqlite&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode&theme=dark" />
 
 </div>
 
 | Category | Technologies |
 |---|---|
-| **Languages** | TypeScript, JavaScript, Java, HTML5, CSS3 |
-| **Frontend** | Next.js (App Router), React, Tailwind CSS, Framer Motion |
-| **Backend & Data** | Next.js API routes, Prisma ORM, PostgreSQL, SQLite |
-| **AI Integration** | Gemini / OpenAI API routes |
-| **Tools & Deploy** | Git, GitHub, Vercel, VS Code |
+| **Languages** | Java, JavaScript, HTML5, CSS3 |
+| **Frontend skills** | Flexbox, layouts, CSS animations, DOM manipulation |
+| **Tools** | Git, GitHub, VS Code |
 | **Core CS** | Data Structures & Algorithms *(in progress)* |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=2" width="100%" />
 
-## 🚀 Featured Project
-
-### 🌟 Elevora: "Rise Beyond Potential."
-
-> Elevora turns real work into a verified record that candidates can showcase and recruiters can trust.
-
-Candidates follow role roadmaps, pass skill checks and ship projects with an AI coach. Everything feeds into a living **Proof Card** that recruiters can search and filter.
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-elevora--zeta.vercel.app-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://elevora-zeta.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-Elevora-7C5CFF?style=for-the-badge&logo=github)](https://github.com/shamshersingh1/Elevora)
-
-</div>
-
-<!-- Add a screenshot or GIF here: <img src="YOUR_SCREENSHOT_URL" width="100%" /> -->
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🪪 Proof Card**
-Public profile with a SHA-256 verification stamp, tiers from Bronze to Diamond, 3D tilt, confetti level-ups and a shareable QR code.
+### 🌟 Elevora
+`Product Idea · Live`
 
-**🗺️ Role Roadmaps**
-Node-based milestone paths with locked, in-progress and completed states, plus capstone project submission.
+A skill-verification platform concept: candidates showcase verified proof of their work, and recruiters search by verified skills instead of resumes. I designed the idea and built it using AI tools, and I'm now learning the technologies behind it.
 
-**📊 Candidate Dashboard**
-Streaks, profile views, a Proof Score dial, an AI coach chat panel and an activity heatmap.
-
-</td>
-<td width="50%" valign="top">
-
-**🔎 Recruiter Engine**
-Search candidates by verified score, tech stack and tier, with one-click shortlists and interview invites.
-
-**🎤 AI Interview Coach**
-Simulated interviews scored on clarity, technical accuracy and system depth.
-
-**🔐 Auth & Roles**
-Split-screen login and signup with candidate and recruiter roles and Google OAuth support.
+[![Live](https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://elevora-zeta.vercel.app)
+[![Repo](https://img.shields.io/badge/Source-7C5CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamshersingh1/Elevora)
 
 </td>
-</tr>
-</table>
-
-**Stack:** Next.js 14 (App Router) · TypeScript · Tailwind CSS · Framer Motion · Prisma · PostgreSQL / SQLite · Vercel
-
-**What I practiced:** designing a multi-role app, modelling data with Prisma, building a reusable design-token system, writing API routes and shipping a deployed product.
-
----
-
-## 📂 More Projects
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 ### 🍽️ Bistro Website
@@ -118,9 +83,11 @@ Split-screen login and signup with candidate and recruiter roles and Google OAut
 
 A restaurant website built to practice page structure, styling and layout.
 
-[![Repo](https://img.shields.io/badge/Repository-22D3EE?style=for-the-badge&logo=github)](https://github.com/shamshersingh1/Bistro-project)
+[![Repo](https://img.shields.io/badge/Source-22D3EE?style=for-the-badge&logo=github&logoColor=black)](https://github.com/shamshersingh1/Bistro-project)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ⚡ JavaScript Practice
@@ -128,11 +95,9 @@ A restaurant website built to practice page structure, styling and layout.
 
 Exercises covering arrays, objects, loops, functions, strings and DOM manipulation.
 
-[![Repo](https://img.shields.io/badge/Repository-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/shamshersingh1/JS)
+[![Repo](https://img.shields.io/badge/Source-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/shamshersingh1/JS)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎨 Web Development Practice
@@ -140,47 +105,49 @@ Exercises covering arrays, objects, loops, functions, strings and DOM manipulati
 
 Layouts, flexbox, animations and styling fundamentals.
 
-[![Repo](https://img.shields.io/badge/Repository-1572B6?style=for-the-badge&logo=html5)](https://github.com/shamshersingh1/Web-dev)
+[![Repo](https://img.shields.io/badge/Source-1572B6?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/shamshersingh1/Web-dev)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 📚 WebDev-DSA
 `Coursework`
 
 Web development coursework and DSA practice.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/shamshersingh1/WebDev-DSA)
+[![Repo](https://img.shields.io/badge/Source-F43F5E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamshersingh1/WebDev-DSA)
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=2" width="100%" />
 
 ## 🗺️ Learning Roadmap
 
 | Area | Goal | Progress |
 |---|---|---|
-| 🌐 Full-Stack | Add testing, auth hardening and real data flows to Elevora | ![](https://img.shields.io/badge/-Building-7C5CFF?style=flat-square) |
-| ☕ Java & DSA | Solve problems consistently, understand time and space complexity | ![](https://img.shields.io/badge/-In_Progress-22D3EE?style=flat-square) |
-| ⚛️ React Ecosystem | Go deeper into state management and performance | ![](https://img.shields.io/badge/-In_Progress-22D3EE?style=flat-square) |
-| 🧰 Git & GitHub | Clear commits and a README on every repo | ![](https://img.shields.io/badge/-Ongoing-22C55E?style=flat-square) |
+| 🌐 Frontend | Build responsive sites with JavaScript, then learn React | ![](https://img.shields.io/badge/-In_Progress-22D3EE?style=for-the-badge) |
+| ☕ Java & DSA | Solve problems consistently, understand time and space complexity | ![](https://img.shields.io/badge/-In_Progress-7C5CFF?style=for-the-badge) |
+| 🔍 Elevora | Understand and rebuild parts of it myself as I learn | ![](https://img.shields.io/badge/-Learning-F43F5E?style=for-the-badge) |
+| 🧰 Git & GitHub | Clear commits and a README on every repo | ![](https://img.shields.io/badge/-Ongoing-22C55E?style=for-the-badge) |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=2" width="100%" />
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-Open to internships, collaboration and feedback on my code.
+**Open to internships, collaboration and feedback on my code.**
 
-<a href="https://www.linkedin.com/in/shamshersingh01/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" /></a>
-<a href="mailto:shamsher0968@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" /></a>
-<a href="https://github.com/shamshersingh1"><img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" height="42" /></a>
+<a href="https://www.linkedin.com/in/shamshersingh01/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="44" /></a>
+<a href="mailto:shamsher0968@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="44" /></a>
+<a href="https://github.com/shamshersingh1"><img src="https://img.shields.io/badge/GitHub-Explore_My_Work-7C5CFF?style=for-the-badge&logo=github&logoColor=white" height="44" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=110&section=footer&animation=fadeIn" width="100%" />
 
 </div>
