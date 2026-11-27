@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=220&section=header&text=Shamsher%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CS%20%28AI%29%20Student%20%7C%20Frontend%20%26%20Java%20Learner&descAlignY=60&descSize=18" width="100%" alt="Shamsher Singh header" />
+<img src="https://raw.githubusercontent.com/shamshersingh1/shamshersingh1/main/assets/footer.svg" width="100%" alt="footer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&lines=Looking+for+a+Software+Development+Internship;Learning+HTML%2C+CSS+%26+JavaScript+by+building;Practicing+Java+and+Data+Structures;Turning+ideas+into+working+products" alt="Typing SVG" />
 
