@@ -15,15 +15,15 @@
 <!-- HEADER SOCIAL ICONS -->
 
 <a href="https://www.linkedin.com/in/shamshersingh01/">
-<img src="https://img.icons8.com/fluency/96/linkedin.png" width="65" height="65" alt="LinkedIn"/>
+<img src="https://img.icons8.com/fluency/96/linkedin.png" width="60" height="60" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:shamsher0968@gmail.com">
-<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="65" height="65" alt="Gmail"/>
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60" height="60" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/shamshersingh1">
-<img src="https://img.icons8.com/fluency/96/github.png" width="65" height="65" alt="GitHub"/>
+<img src="https://img.icons8.com/fluency/96/github.png" width="60" height="60" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -174,15 +174,15 @@ I'm always open to connecting with developers, exchanging ideas, learning new th
 <!-- LARGE SOCIAL APP ICONS -->
 
 <a href="https://www.linkedin.com/in/shamshersingh01/">
-<img src="https://img.icons8.com/fluency/96/linkedin.png" width="80" height="80" alt="LinkedIn"/>
+<img src="https://img.icons8.com/fluency/96/linkedin.png" width="60" height="60" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:shamsher0968@gmail.com">
-<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="80" height="80" alt="Gmail"/>
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60" height="60" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/shamshersingh1">
-<img src="https://img.icons8.com/fluency/96/github.png" width="80" height="80" alt="GitHub"/>
+<img src="https://img.icons8.com/fluency/96/github.png" width="60" height="60" alt="GitHub"/>
 </a>
 
 <br/>
