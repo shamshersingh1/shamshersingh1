@@ -1,142 +1,130 @@
- 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=210&section=header&text=Shamsher%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20(AI)%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=190&section=header&text=Shamsher%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20B.Tech%20Computer%20Science%20(AI)&descAlignY=60&descSize=16" width="100%" />
 
 <a href="https://www.linkedin.com/in/shamshersingh01/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:shamsher0968@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/shamshersingh1">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" height="38" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
+
+</div>
+
+## About Me
+
+I'm **Shamsher Singh**, a first-year B.Tech Computer Science (AI) student at Vedam School of Technology, interested in frontend development and software engineering.
+
+I build web projects using HTML, CSS, and JavaScript, while strengthening my programming fundamentals through Java and Data Structures & Algorithms.
+
+- Developing practical frontend projects and exploring modern web technologies.
+- Building **Elevora**, a project focused on creating a practical digital product.
+- Practicing DSA and problem-solving using Java.
+- Interested in frontend development internships and opportunities to contribute to real-world projects.
+
+## Technical Skills
+
+**Languages**
+<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend Development**
+<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools & Platforms**
+<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+## Featured Projects
+
+### 1. Elevora
+**Status: In Development**
+
+A digital product project focused on connecting ambitious candidates with career and recruitment opportunities.
+
+- Developing a platform with a modern, responsive user interface.
+- Exploring product development, frontend architecture, and user experience.
+
+**Tech:** Next.js, React, TypeScript, Tailwind CSS
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/shamshersingh1/Elevora)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-22D3EE?style=flat-square&logo=vercel&logoColor=black)](https://elevora-zeta.vercel.app/)
+
+### 2. Bistro Project
+**Status: Incomplete**
+
+A food-delivery website frontend inspired by modern food ordering platforms.
+
+- Built page layouts and interface components using HTML and CSS.
+- Practiced frontend styling, layout structuring, and responsive design.
+
+**Tech:** HTML, CSS
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/shamshersingh1/Bistro-project)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-22D3EE?style=flat-square&logo=vercel&logoColor=black)](https://bistroclone.vercel.app/)
+
+## Problem Solving
+
+- Practicing Data Structures and Algorithms using Java.
+- Solving programming challenges on LeetCode.
+- Working on arrays, strings, binary search, stacks, queues, and other fundamental topics.
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ShamsherSingh01/)
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shamshersingh1&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshersingh1&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+projects+and+learning+every+day;Exploring+Frontend+Development;Practicing+Java+and+Data+Structures;Turning+ideas+into+working+projects" alt="Typing SVG" />
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm **Shamsher Singh**, a first-year B.Tech Computer Science (AI) student at **Vedam School of Technology**, interested in software development and building practical projects.
-
-- 💻 Exploring frontend development and web technologies.
-- ☕ Learning Java and strengthening my Data Structures and Algorithms fundamentals.
-- 🚀 Working on **Elevora**, a project currently in development.
-- 🎯 Looking for internship opportunities where I can learn, contribute, and grow as a developer.
-- 📚 Believe in learning by building and improving through practice.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Web Development
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,ts&theme=dark" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-## 🚀 Projects
-
-### 1. Elevora
-**Status:** In Development
-
-A project I'm actively working on as part of my journey into building software products.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-Elevora-7C5CFF?style=for-the-badge&logo=github)](https://github.com/shamshersingh1/Elevora)
-
-### 2. Bistro Project
-**Status:** Incomplete
-
-A web development project built using HTML and CSS. Part of my hands-on frontend learning.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-Bistro--project-22D3EE?style=for-the-badge&logo=github)](https://github.com/shamshersingh1/Bistro-project)
-
-### 3. JavaScript Practice
-A collection of JavaScript practice files covering topics such as arrays, objects, loops, functions, strings, and DOM manipulation.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/shamshersingh1/JS)
-
-### 4. Web Development Practice
-A collection of HTML and CSS exercises exploring layouts, styling, animations, flexbox, and other frontend fundamentals.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-Web--dev-1572B6?style=for-the-badge&logo=html5)](https://github.com/shamshersingh1/Web-dev)
-
-### 5. Web Development & DSA
-A repository containing web development coursework and practice projects.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-WebDev--DSA-181717?style=for-the-badge&logo=github)](https://github.com/shamshersingh1/WebDev-DSA)
-
----
-
-## 📈 GitHub Overview
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shamshersingh1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamshersingh1&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=shamshersingh1&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamshersingh1&theme=tokyo-night&hide_border=true" width="100%" />
-
 </div>
 
----
+## Current Focus
 
-## 🎯 Current Focus
+- Improving JavaScript and frontend development skills.
+- Strengthening Java and DSA fundamentals.
+- Developing Elevora and improving existing projects.
+- Learning software engineering practices and writing maintainable code.
+- Preparing for frontend developer internship opportunities.
 
-| Area | Focus |
-|---|---|
-| Frontend Development | Improving HTML, CSS and JavaScript |
-| Java | Strengthening programming fundamentals |
-| DSA | Practicing problem-solving |
-| Projects | Developing Elevora and building practical projects |
-| Career | Preparing for internship opportunities |
+## Let's Connect
 
----
-
-## 🤝 Let's Connect
+I'm open to **frontend development internships, collaborative projects, and learning opportunities**.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shamshersingh01/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/LinkedIn-Shamsher%20Singh-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:shamsher0968@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/Email-shamsher0968%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/shamshersingh1">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/GitHub-shamshersingh1-181717?style=for-the-badge&logo=github" />
 </a>
 
 <br/><br/>
 
-**Open to learning, collaboration, and internship opportunities.**
+**Building. Learning. Improving.**
 
 </div>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:22D3EE,100:F43F5E&height=100&section=footer" width="100%" />
-
-</div>
